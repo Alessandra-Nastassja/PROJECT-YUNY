@@ -22,3 +22,29 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 * Jovens de 12 á 18 anos.
 
 *[Link](https://miro.com/app/board/o9J_kqpCyf4=/) da pesquisa realizada*
+
+******
+## Como contribuir ? 😽
+
+* Dê um **fork** esse repositório;
+![]()
+
+* Após, crie uma **branch** com a sua feature:
+
+```
+git checkout -b my-feature
+```
+
+* Agora, **commit** suas mudanças: 
+
+```
+git commit -m 'feat: My new feature'
+```
+
+* E por último, **push** a sua branch: 
+
+```
+git push origin my-feature
+```
+
+> Obs.: Senão souber mexer no git me chame no linkedin ou twitter que irei te ajudar. 
