@@ -1,14 +1,17 @@
 <h1 align="center">
-  Projeto: Educando 
+  Projeto: Yuny 
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/Alessandra-Nastassja/PROJECT-EDUCAFRO?color=%239175db">
   <a href="https://github.com/Alessandra-Nastassja/PROJECT-WEARISM/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alessandra-Nastassja/PROJECT-EDUCAFRO?color=%239175db">
   </a>
-  <a href="https://www.linkedin.com/in/alessandra-nastassja/">
-    <img alt="Made by Alessandra Nastassja" src="https://img.shields.io/badge/made%20by-AlessandraNastassja-%239175db">
-  </a>
+</p>
+
+<p align="center">
+  <a href="">Alessandra Nastassja</a> | 
+  <a href="">Yasmym Cardoso</a> | 
+  <a href="">Nykolas Cardoso</a>
 </p>
 
 ******
