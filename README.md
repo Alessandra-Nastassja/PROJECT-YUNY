@@ -6,6 +6,7 @@
   <a href="https://github.com/Alessandra-Nastassja/PROJECT-WEARISM/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alessandra-Nastassja/PROJECT-EDUCAFRO?color=%239175db">
   </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%239175db">
 </p>
 
 <p align="center">
@@ -50,4 +51,10 @@ git commit -m 'feat: My new feature'
 git push origin my-feature
 ```
 
-> Obs.: Senão souber mexer no git me chame no linkedin ou twitter que irei te ajudar. 
+> Obs.: Senão souber mexer no git me chame no [linkedin](https://www.linkedin.com/in/alessandra-nastassja/) ou twitter que irei te ajudar. 
+
+******
+## Licença 🗒️
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Alessandra-Nastassja/PROJECT-YUNY/blob/master/LICENSE) para mais detalhes.
+
