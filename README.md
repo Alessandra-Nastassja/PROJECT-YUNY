@@ -24,7 +24,7 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 * Educação
 * Jovens de 12 á 18 anos.
 
-*[Link](https://miro.com/app/board/o9J_kqpCyf4=/) da pesquisa realizada*
+Clique [aqui](https://miro.com/app/board/o9J_kqpCyf4=/) para saber mais.
 
 ******
 ## Como contribuir ? 😽
