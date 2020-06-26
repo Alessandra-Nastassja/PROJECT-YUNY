@@ -23,7 +23,7 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 ### Público e área: 📌
 
 * Educação
-* Jovens de 12 á 18 anos.
+* Jovens de 16 á 25 anos.
 
 > Clique [aqui](https://miro.com/app/board/o9J_kqpCyf4=/) para saber mais.
 
