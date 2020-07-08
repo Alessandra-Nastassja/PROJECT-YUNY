@@ -25,6 +25,10 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 * Educação
 * Jovens de 16 á 25 anos.
 
+Nosso projeto esta crescendo...
+
+![Screenshot from 2020-07-07 21-25-59](https://user-images.githubusercontent.com/27302446/86859227-93798c80-c098-11ea-80ae-47137e51ce28.png)
+
 > Clique [aqui](https://miro.com/app/board/o9J_kqpCyf4=/) para saber mais.
 
 ******
