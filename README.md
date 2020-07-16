@@ -27,7 +27,7 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 
 *Nosso projeto esta crescendo...*
 
-![Screenshot from 2020-07-07 21-25-59](https://user-images.githubusercontent.com/27302446/86859227-93798c80-c098-11ea-80ae-47137e51ce28.png)
+![Screenshot from 2020-07-15 22-57-33](https://user-images.githubusercontent.com/27302446/87617787-96a2f700-c6ee-11ea-9ed6-ae92e0b6deee.png)
 
 > Clique [aqui](https://miro.com/app/board/o9J_kqpCyf4=/) para saber mais.
 
