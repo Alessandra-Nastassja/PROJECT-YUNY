@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27302446/87738915-d9c79d80-c7b4-11ea-9081-2e8f94402a46.png" width="300px"  />
+</p>
 <h1 align="center">
   Projeto: Yuny 
 </h1>
