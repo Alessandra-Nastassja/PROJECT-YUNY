@@ -35,6 +35,10 @@ O projeto tem como objetivo ajudar em uma necessidade dos jovens em descobrir su
 > Clique [aqui](https://miro.com/app/board/o9J_kqpCyf4=/) para saber mais sobre a definição do projeto. E para saber sobre o protótipo, [aqui](https://www.figma.com/file/jrjdxkVpCLNIDzwL9PcI4m/Yuni?node-id=0%3A1).
 
 ******
+## Resultado ✔️
+![Screenshot from 2020-07-23 22-53-06](https://user-images.githubusercontent.com/27302446/88354445-499ad280-cd37-11ea-8409-c45fe00ad3b0.png)
+
+******
 ## Como contribuir ? 😽
 
 * Dê um **fork** esse repositório;
